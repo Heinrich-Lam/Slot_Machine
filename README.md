@@ -1,0 +1,2 @@
+# Slot_Machine
+I created a Slot machine program in Java. The user gets a set amount of Credtis and then they place a bet, the program then generates a set of three random numbers, if the numbers are the same then the player gets double the money back, if not then they loose and the lost credits will be deducted from the players total credits. There is also and option to cash out with your remaing credits.
